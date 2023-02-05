@@ -2,10 +2,10 @@
 ln -fs /usr/share/zoneinfo/Asia/Manila /etc/localtime
 #change this according to your database details
 #Database Details
-dbhost='184.168.119.95';
-dbuser='eagle-vpn-user';
-dbpass='kakaiba123';
-dbname='eagle-vpn101';
+dbhost='66.45.251.234';
+dbuser='systemte_eagle-user';
+dbpass='soldier062185';
+dbname='systemte_eagle';
 dbport='3306';
 dbport='3306';
 RED='\033[01;31m';
